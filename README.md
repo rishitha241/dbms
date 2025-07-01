@@ -26,8 +26,5 @@ sqlite3 hospital.db < hospital_schema.sql
 python hospital_cli.py
 ```
 
-## 📌 Made for Resume
 
-- Highlights SQL, relationships, and practical design
-- You can expand with login, search, or web UI
 
