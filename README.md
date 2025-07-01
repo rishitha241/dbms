@@ -1,6 +1,6 @@
 # 🏥 Hospital Management System (DBMS Project)
 
-A resume-ready DBMS project built with SQL and Python.
+A  DBMS project built with SQL and Python.
 
 ## 📦 Features
 
@@ -31,6 +31,3 @@ python hospital_cli.py
 - Highlights SQL, relationships, and practical design
 - You can expand with login, search, or web UI
 
----
-
-Built by Rishitha for internship interviews like Goldman Sachs 🚀
